@@ -1,2 +1,2 @@
 # researchM4
-//SMIT Assignment of UL/UX design
+//SMIT Assignment of UI/UX design
